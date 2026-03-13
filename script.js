@@ -1024,8 +1024,8 @@ window.onload = function() {
           var allLinks = document.querySelectorAll('a[href]');
           for (var i = 0; i < allLinks.length; i++) {
             var h = allLinks[i].getAttribute('href') || '';
-            var cleaned = h.replace(/[-s()]/g, '');
-            if (/^(+?d{9,15}|0d{8,9})$/.test(cleaned)) {
+            var cleaned = h.replace(/[-\s()]/g, '');
+            if (/^(\+?\d{9,15}|0\d{8,9})$/.test(cleaned)) {
               phoneNumber = cleaned;
               break;
             }

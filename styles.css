@@ -222,7 +222,7 @@ h3 {
 }
 
 p {
-  font-size: 16px !important;
+  font-size: 18px;
   font-weight: 400 !important;
   line-height: 1.7 !important;
   margin-bottom: 1rem !important;
@@ -351,7 +351,7 @@ select {
   }
   
   p {
-    font-size: 15px !important;
+    font-size: 18px;
   }
   
   .container {
@@ -379,7 +379,7 @@ select {
   }
   
   p {
-    font-size: 14px !important;
+    font-size: 18px;
   }
   
   .btn {
@@ -1094,7 +1094,8 @@ html[lang="ar"] .nav-right-group {
   flex: 1;
   min-width: 0;
   flex-direction: row-reverse;
-}
+
+  font-size: 18px;}
 
 /* Within wrapper: Logo on far right, menu to its left */
 html[dir="rtl"] .nav-right-group .nav-brand,
@@ -1364,7 +1365,8 @@ html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .dropdown-menu {
   /* Hide RTL wrapper on mobile */
   .nav-right-group {
     display: contents !important;
-  }
+  
+  font-size: 18px;}
   
   /* Hide CTA container on mobile - Contact will be in hamburger menu */
   .nav-cta-container {
@@ -1769,12 +1771,14 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   padding-block-end: 2.5rem;
   border-block-end: 1px solid var(--border-dark);
   margin-block-end: 1.5rem;
-}
+
+  font-size: 18px;}
 
 @media (min-width: 768px) {
   .footer-top {
     grid-template-columns: 2fr 1fr 1.5fr 1fr;
-  }
+  
+  font-size: 18px;}
 }
 
 .footer-column {
@@ -1888,7 +1892,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .copyright p {
   margin: 0;
-  font-size: 0.9rem;
+  font-size: 18px;
   color: var(--text-light);
   opacity: 0.8;
 }
@@ -1954,7 +1958,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   
   .footer-top {
     gap: 2rem;
-  }
+  
+  font-size: 18px;}
   
   .footer-column {
     text-align: center;
@@ -2413,7 +2418,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .index-process-intro p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-dark);
   margin: 0;
@@ -2448,7 +2453,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   gap: 24px;
   margin-bottom: 40px;
   z-index: 1;
-}
+
+  font-size: 18px;}
 
 .index-process-step:last-of-type {
   margin-bottom: 0;
@@ -2488,7 +2494,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .index-process-content p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-dark);
   margin: 0;
@@ -2505,7 +2511,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .index-process-closing p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-dark);
   margin: 0;
@@ -2568,7 +2574,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   .index-process-step {
     gap: 16px;
     margin-bottom: 32px;
-  }
+  
+  font-size: 18px;}
 
   .index-process-number {
     width: 40px;
@@ -2621,7 +2628,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .index-showcase-section .index-showcase-header p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -2788,7 +2795,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .index-testimonials-section .index-testimonials-header p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -2826,7 +2833,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .index-testimonials-section .index-testimonial-card p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -2861,7 +2868,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .index-testimonials-section .index-testimonials-cta-content p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -3115,7 +3122,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-capabilities-section .services-capabilities-header p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -3168,7 +3175,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-capabilities-section .capability-card p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -3260,7 +3267,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-materials-section .services-materials-intro p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-light);
   margin: 0;
@@ -3316,7 +3323,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-materials-section .services-materials-text p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-light);
   margin: 0;
@@ -3399,7 +3406,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-qa-section .services-qa-header p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -3434,7 +3441,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-qa-section .services-qa-item p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -3513,7 +3520,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-cta-band-section p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-light);
   margin: 0 0 32px 0;
@@ -3561,7 +3568,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   }
 
   .services-cta-band-section p {
-    font-size: 16px;
+    font-size: 18px;
     margin-bottom: 24px;
   }
 
@@ -3749,7 +3756,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .projects-portfolio-section .projects-portfolio-intro p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -3957,7 +3964,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .projects-case-studies-section .case-content > p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -3973,7 +3980,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .projects-case-studies-section .case-highlights p {
   font-family: 'Rubik', sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.6;
   color: var(--text-dark);
@@ -4066,11 +4073,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   }
 
   .projects-case-studies-section .case-content > p {
-    font-size: 15px;
+    font-size: 18px;
   }
 
   .projects-case-studies-section .case-highlights p {
-    font-size: 14px;
+    font-size: 18px;
     padding-inline-start: 12px;
   }
 
@@ -4113,7 +4120,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .projects-stats-section .projects-stats-intro p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-dark);
   margin: 0;
@@ -4150,7 +4157,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .projects-stats-section .projects-stats-item p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-dark);
   margin: 0;
@@ -4230,7 +4237,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .projects-cta-section p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text-light);
   margin: 0 0 32px 0;
@@ -4270,7 +4277,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   }
 
   .projects-cta-section p {
-    font-size: 16px;
+    font-size: 18px;
     margin-bottom: 24px;
   }
 
@@ -4415,7 +4422,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .contact-contact-details-section .contact-info-content p,
 .contact-contact-details-section .guidelines-content p {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.8;
   color: #6A4F3A;
@@ -4492,7 +4499,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
   .contact-contact-details-section .contact-info-content p,
   .contact-contact-details-section .guidelines-content p {
-    font-size: 14px;
+    font-size: 18px;
     margin-bottom: 10px;
   }
 
@@ -4538,7 +4545,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .contact-contact-form-section .contact-form-header p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -4730,7 +4737,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .contact-faq-section .contact-faq-header p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -4765,7 +4772,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .contact-faq-section .contact-faq-item p {
   font-family: 'Rubik', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
   color: var(--text-dark);
@@ -4849,7 +4856,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   color: var(--text-dark);
   line-height: 1.7;
   margin: 0;
-}
+
+  font-size: 18px;}
 
 .contact-map-embed-section .contact-map-embed-wrapper {
   width: 100%;
@@ -4964,7 +4972,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
     width: 100% !important;
     max-width: 100% !important;
     box-sizing: border-box !important;
-  }
+  
+  font-size: 18px;}
 
   /* 3. GRID TO COLUMN CONVERSION */
   /* Only convert grids that don't have proper mobile handling */
@@ -5398,7 +5407,8 @@ nav.navbar .sub-menu li a:hover { color: #C56B4E !important; background-color: r
 .legal-page-content p {
   margin-bottom: 1rem;
   line-height: 1.7;
-}
+
+  font-size: 18px;}
 
 .legal-page-content ul {
   margin-bottom: 1.5rem;

@@ -5,33 +5,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://rafael-eitan-management-and-co.zappy5.app
 מתמחים בבניית וילות יוקרה ובריכות שחייה פרטיות ברמה הגבוהה בישראל. איכות בנייה יוצאת דופן, עבודות בטון מושלמות ושירות אישי ללקוחות תובעניים.
 
 ### שירותים
-https://example.com/services
+https://rafael-eitan-management-and-co.zappy5.app/services
 שירותי בנייה מלאים: בניית וילות יוקרה, התקנת בריכות שחייה, עבודות בטון רטוב ושלד. ניהול פרויקט מקצועי מתכנון ועד מסירה. התייעצות ללא התחייבות.
 
 ### פרויקטים
-https://example.com/projects
+https://rafael-eitan-management-and-co.zappy5.app/projects
 צפו בפרויקטי בניית וילות יוקרה ובריכות שחייה שביצענו. תיק עבודות מרשים של פרויקטים יוקרתיים בכל רחבי הארץ. איכות שמדברת בשביל עצמה.
 
 ### צור קשר
-https://example.com/contact
+https://rafael-eitan-management-and-co.zappy5.app/contact
 צרו קשר לקבלת ייעוץ מקצועי ללא עלות. נשמח לתכנן ולבנות את וילת החלומות או בריכת השחייה שלכם. שירות אישי, מענה מהיר והצעת מחיר מפורטת.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://rafael-eitan-management-and-co.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://rafael-eitan-management-and-co.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://rafael-eitan-management-and-co.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,5 +43,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://rafael-eitan-management-and-co.zappy5.app/sitemap.xml
+- **Robots.txt**: https://rafael-eitan-management-and-co.zappy5.app/robots.txt

@@ -5826,7 +5826,21 @@ body.accessibility-widget-visible ._access-menu {
 /* /Zappy custom logo size */
 
 
-.accessibility-section .divider, .accessibility-section .separator, .accessibility-section [class*="divider"], .accessibility-section [class*="separator"], .accessibility-section [class*="line"] {
+.accessibility-page-section .green-line,
+.accessibility-page-section .accent-line,
+.accessibility-page-section .separator,
+.accessibility-page-section [class*="line"],
+.accessibility-page-section [class*="divid"],
+.accessibility-page-section [class*="spacer"] {
+  display: none;
+}
+
+.accessibility-page-section hr {
+  display: none;
+}
+
+.accessibility-page-section p:empty,
+.accessibility-page-section div:empty {
   display: none;
 }
 

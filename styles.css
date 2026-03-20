@@ -5826,6 +5826,10 @@ body.accessibility-widget-visible ._access-menu {
 /* /Zappy custom logo size */
 
 
+.accessibility-section .divider, .accessibility-section .separator, .accessibility-section [class*="divider"], .accessibility-section [class*="separator"], .accessibility-section [class*="line"] {
+  display: none;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */

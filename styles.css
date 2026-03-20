@@ -5826,22 +5826,48 @@ body.accessibility-widget-visible ._access-menu {
 /* /Zappy custom logo size */
 
 
-.accessibility-page-section .green-line,
-.accessibility-page-section .accent-line,
-.accessibility-page-section .separator,
-.accessibility-page-section [class*="line"],
-.accessibility-page-section [class*="divid"],
-.accessibility-page-section [class*="spacer"] {
-  display: none;
+.accessibility-section ul,
+.accessibility-section ol,
+.accessibility-content ul,
+.accessibility-content ol,
+.page-content ul,
+.page-content ol,
+.text-section ul,
+.text-section ol,
+.content-section ul,
+.content-section ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-.accessibility-page-section hr {
-  display: none;
+.accessibility-section ul li,
+.accessibility-section ol li,
+.accessibility-content ul li,
+.accessibility-content ol li,
+.page-content ul li,
+.page-content ol li,
+.text-section ul li,
+.text-section ol li,
+.content-section ul li,
+.content-section ol li {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 8px 0;
+  display: block;
 }
 
-.accessibility-page-section p:empty,
-.accessibility-page-section div:empty {
-  display: none;
+.accessibility-section ul li::marker,
+.accessibility-section ol li::marker,
+.accessibility-content ul li::marker,
+.accessibility-content ol li::marker,
+.page-content ul li::marker,
+.page-content ol li::marker,
+.text-section ul li::marker,
+.text-section ol li::marker,
+.content-section ul li::marker,
+.content-section ol li::marker {
+  content: none;
 }
 
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */

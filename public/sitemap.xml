@@ -1,43 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rafael-eitan-management-and-co.zappy5.app</loc>
+    <loc>https://rephaeleitan.co.il</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rafael-eitan-management-and-co.zappy5.app/services</loc>
+    <loc>https://rephaeleitan.co.il/services</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rafael-eitan-management-and-co.zappy5.app/projects</loc>
+    <loc>https://rephaeleitan.co.il/projects</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rafael-eitan-management-and-co.zappy5.app/contact</loc>
+    <loc>https://rephaeleitan.co.il/contact</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rafael-eitan-management-and-co.zappy5.app/privacy</loc>
+    <loc>https://rephaeleitan.co.il/projects/herzliya</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rephaeleitan.co.il/privacy</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rafael-eitan-management-and-co.zappy5.app/terms</loc>
+    <loc>https://rephaeleitan.co.il/terms</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rafael-eitan-management-and-co.zappy5.app/accessibility</loc>
+    <loc>https://rephaeleitan.co.il/accessibility</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

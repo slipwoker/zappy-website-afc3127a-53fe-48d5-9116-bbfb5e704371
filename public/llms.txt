@@ -5,33 +5,37 @@
 ## Pages
 
 ### בית
-https://rafael-eitan-management-and-co.zappy5.app
+https://rephaeleitan.co.il
 מתמחים בבניית וילות יוקרה ובריכות שחייה פרטיות ברמה הגבוהה בישראל. איכות בנייה יוצאת דופן, עבודות בטון מושלמות ושירות אישי ללקוחות תובעניים.
 
 ### שירותים
-https://rafael-eitan-management-and-co.zappy5.app/services
+https://rephaeleitan.co.il/services
 שירותי בנייה מלאים: בניית וילות יוקרה, התקנת בריכות שחייה, עבודות בטון רטוב ושלד. ניהול פרויקט מקצועי מתכנון ועד מסירה. התייעצות ללא התחייבות.
 
 ### פרויקטים
-https://rafael-eitan-management-and-co.zappy5.app/projects
+https://rephaeleitan.co.il/projects
 צפו בפרויקטי בניית וילות יוקרה ובריכות שחייה שביצענו. תיק עבודות מרשים של פרויקטים יוקרתיים בכל רחבי הארץ. איכות שמדברת בשביל עצמה.
 
 ### צור קשר
-https://rafael-eitan-management-and-co.zappy5.app/contact
+https://rephaeleitan.co.il/contact
 צרו קשר לקבלת ייעוץ מקצועי ללא עלות. נשמח לתכנן ולבנות את וילת החלומות או בריכת השחייה שלכם. שירות אישי, מענה מהיר והצעת מחיר מפורטת.
+
+### פרויקט הרצליה
+https://rephaeleitan.co.il/projects/herzliya
+רפאל איתן ניהול ובניה - פרויקט הרצליה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://rafael-eitan-management-and-co.zappy5.app/privacy
+https://rephaeleitan.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://rafael-eitan-management-and-co.zappy5.app/terms
+https://rephaeleitan.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://rafael-eitan-management-and-co.zappy5.app/accessibility
+https://rephaeleitan.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,5 +47,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://rafael-eitan-management-and-co.zappy5.app/sitemap.xml
-- **Robots.txt**: https://rafael-eitan-management-and-co.zappy5.app/robots.txt
+- **Sitemap**: https://rephaeleitan.co.il/sitemap.xml
+- **Robots.txt**: https://rephaeleitan.co.il/robots.txt

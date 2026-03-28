@@ -5826,50 +5826,6 @@ body.accessibility-widget-visible ._access-menu {
 /* /Zappy custom logo size */
 
 
-.accessibility-section ul,
-.accessibility-section ol,
-.accessibility-content ul,
-.accessibility-content ol,
-.page-content ul,
-.page-content ol,
-.text-section ul,
-.text-section ol,
-.content-section ul,
-.content-section ol {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.accessibility-section ul li,
-.accessibility-section ol li,
-.accessibility-content ul li,
-.accessibility-content ol li,
-.page-content ul li,
-.page-content ol li,
-.text-section ul li,
-.text-section ol li,
-.content-section ul li,
-.content-section ol li {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 8px 0;
-  display: block;
-}
-
-.accessibility-section ul li::marker,
-.accessibility-section ol li::marker,
-.accessibility-content ul li::marker,
-.accessibility-content ol li::marker,
-.page-content ul li::marker,
-.page-content ol li::marker,
-.text-section ul li::marker,
-.text-section ol li::marker,
-.content-section ul li::marker,
-.content-section ol li::marker {
-  content: none;
-}
-
 /* Privacy consent checkbox — uses !important to override site form styles */
 .privacy-consent {
   margin: 16px 0 !important;
@@ -5904,6 +5860,16 @@ body.accessibility-widget-visible ._access-menu {
 }
 .privacy-consent a:hover {
   opacity: 0.75;
+}
+
+.herzliya-residence-construction-section ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.herzliya-residence-construction-section ol li {
+  display: block;
 }
 
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */

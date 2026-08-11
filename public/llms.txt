@@ -51,7 +51,7 @@ Information about WCAG compliance and accessibility features.
 - Email: rephael.eitan@gmail.com
 - Phone: 0546649990
 - Phone (tel): tel:0546649990
-- Address: ,, ישראל
+- Address: ,, מרכז והצפון, ישראל
 
 ### Contact form
 - URL: https://rephaeleitan.co.il/contact

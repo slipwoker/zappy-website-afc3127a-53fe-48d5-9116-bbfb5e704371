@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# רפאל איתן ניהול ובניה — Generative Engine Optimization Map
+
+> A luxury construction company specializing in high-end residential projects. The business focuses on premium villa construction, swimming pool installation, and wet construction work, targeting upscale clientele seeking quality craftsmanship in residential building projects.
 
 ---
 
@@ -44,12 +46,44 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## How to Contact Us
 
-## About Business
+- Email: rephael.eitan@gmail.com
+- Phone: 0546649990
+- Phone (tel): tel:0546649990
+- Address: ,, ישראל
+
+### Contact form
+- URL: https://rephaeleitan.co.il/contact
+- Endpoint: https://rephaeleitan.co.il/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://rephaeleitan.co.il/sitemap.xml
-- **Robots.txt**: https://rephaeleitan.co.il/robots.txt
+## About רפאל איתן ניהול ובניה
+A luxury construction company specializing in high-end residential projects. The business focuses on premium villa construction, swimming pool installation, and wet construction work, targeting upscale clientele seeking quality craftsmanship in residential building projects.
+
+## Target Audience
+- בעלי בתים חדשים
+- יזמי נדל"ן
+- אדריכלים ומעצבים
+
+## Industry
+בנייה ועבודות בטון
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://rephaeleitan.co.il/sitemap.xml
+- Robots: https://rephaeleitan.co.il/robots.txt
+- Flattened page text (for LLMs): https://rephaeleitan.co.il/llms-full.txt
